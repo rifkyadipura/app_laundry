@@ -1,0 +1,2 @@
+auto increment reset 
+ALTER TABLE (NAMA TABLE) AUTO_INCREMENT=1
